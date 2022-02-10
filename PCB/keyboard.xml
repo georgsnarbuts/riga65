@@ -1,0 +1,2317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\Georgs\Desktop\RIGA65 - tests\riga65\keyboard.sch</source>
+    <date>6/17/2021 4:35:51 PM</date>
+    <tool>Eeschema (5.1.10-6-gecec324121)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>keyboard.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="K_R_ARROW1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000801</tstamp>
+    </comp>
+    <comp ref="K_ARROWDOWN1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000791</tstamp>
+    </comp>
+    <comp ref="K_L_ARROW1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000781</tstamp>
+    </comp>
+    <comp ref="K_1U_RCTRL1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000771</tstamp>
+    </comp>
+    <comp ref="K_1.5U_RCTRL1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1.5U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000761</tstamp>
+    </comp>
+    <comp ref="K_1U_RWIN1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000751</tstamp>
+    </comp>
+    <comp ref="K_1.5U_RALT1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1.5U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000741</tstamp>
+    </comp>
+    <comp ref="K_1U_RALT1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000731</tstamp>
+    </comp>
+    <comp ref="K_7U_SPACE1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-7U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000721</tstamp>
+    </comp>
+    <comp ref="K_6.25U_SPACE1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-6.25U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000711</tstamp>
+    </comp>
+    <comp ref="K_1.5U_LALT1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1.5U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000701</tstamp>
+    </comp>
+    <comp ref="K_1.25U_LALT1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1.25U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000691</tstamp>
+    </comp>
+    <comp ref="K_1U_LCTRL1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000681</tstamp>
+    </comp>
+    <comp ref="K_1.25U_LWIN1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1.25U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000671</tstamp>
+    </comp>
+    <comp ref="K_1.5U_LCTRL1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1.5U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000661</tstamp>
+    </comp>
+    <comp ref="K_1.25U_LCNTRL1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1.25U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000651</tstamp>
+    </comp>
+    <comp ref="K_END1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000641</tstamp>
+    </comp>
+    <comp ref="K_ARROWUP1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000631</tstamp>
+    </comp>
+    <comp ref="K_RSHIFT1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1.75U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000621</tstamp>
+    </comp>
+    <comp ref="K_/1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000611</tstamp>
+    </comp>
+    <comp ref="K_.1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000601</tstamp>
+    </comp>
+    <comp ref="K_,1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000591</tstamp>
+    </comp>
+    <comp ref="K_M1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000581</tstamp>
+    </comp>
+    <comp ref="K_N1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000571</tstamp>
+    </comp>
+    <comp ref="K_B1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000561</tstamp>
+    </comp>
+    <comp ref="K_V1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000551</tstamp>
+    </comp>
+    <comp ref="K_C1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000541</tstamp>
+    </comp>
+    <comp ref="K_X1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000531</tstamp>
+    </comp>
+    <comp ref="K_Z1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000521</tstamp>
+    </comp>
+    <comp ref="K_ISO_\1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000511</tstamp>
+    </comp>
+    <comp ref="K_ANSI_LSHIFT1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-2.25U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000491</tstamp>
+    </comp>
+    <comp ref="K_ISO_LSHIFT1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1.25U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000501</tstamp>
+    </comp>
+    <comp ref="K_PAGEDOWN1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000481</tstamp>
+    </comp>
+    <comp ref="`1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000471</tstamp>
+    </comp>
+    <comp ref="K_ANSI_ENTER1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-2.25U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000461</tstamp>
+    </comp>
+    <comp ref="K_'1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000451</tstamp>
+    </comp>
+    <comp ref="K_;1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000441</tstamp>
+    </comp>
+    <comp ref="K_L1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000431</tstamp>
+    </comp>
+    <comp ref="K_K1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000421</tstamp>
+    </comp>
+    <comp ref="K_J1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000411</tstamp>
+    </comp>
+    <comp ref="K_H1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000401</tstamp>
+    </comp>
+    <comp ref="K_G1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000391</tstamp>
+    </comp>
+    <comp ref="K_F1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000381</tstamp>
+    </comp>
+    <comp ref="K_D1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000371</tstamp>
+    </comp>
+    <comp ref="K_S1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000361</tstamp>
+    </comp>
+    <comp ref="K_A1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000351</tstamp>
+    </comp>
+    <comp ref="K_STEPPED_CAPS1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1.25U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000341</tstamp>
+    </comp>
+    <comp ref="K_CAPS1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1.75U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000331</tstamp>
+    </comp>
+    <comp ref="K_PAGE_UP1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000321</tstamp>
+    </comp>
+    <comp ref="K_ANSI\1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1.5U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000301</tstamp>
+    </comp>
+    <comp ref="K_]1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000291</tstamp>
+    </comp>
+    <comp ref="K_[1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000281</tstamp>
+    </comp>
+    <comp ref="K_P1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000271</tstamp>
+    </comp>
+    <comp ref="K_O1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000261</tstamp>
+    </comp>
+    <comp ref="K_I1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000251</tstamp>
+    </comp>
+    <comp ref="K_U1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000241</tstamp>
+    </comp>
+    <comp ref="K_Y1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000231</tstamp>
+    </comp>
+    <comp ref="K_T1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000221</tstamp>
+    </comp>
+    <comp ref="K_R1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000211</tstamp>
+    </comp>
+    <comp ref="K_E1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000201</tstamp>
+    </comp>
+    <comp ref="K_W1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000191</tstamp>
+    </comp>
+    <comp ref="K_Q1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000181</tstamp>
+    </comp>
+    <comp ref="K_TAB1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1.5U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000171</tstamp>
+    </comp>
+    <comp ref="K_1U_BACKSPACE1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000151</tstamp>
+    </comp>
+    <comp ref="K_2U_BACKSPACE1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-2U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000141</tstamp>
+    </comp>
+    <comp ref="K_RANDOM_1U1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000131</tstamp>
+    </comp>
+    <comp ref="K_=1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000121</tstamp>
+    </comp>
+    <comp ref="K_-1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000111</tstamp>
+    </comp>
+    <comp ref="K_ZERO1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000101</tstamp>
+    </comp>
+    <comp ref="K_NINE1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000091</tstamp>
+    </comp>
+    <comp ref="K_EIGHT1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000081</tstamp>
+    </comp>
+    <comp ref="K_SEVEN1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000071</tstamp>
+    </comp>
+    <comp ref="K_SIX1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000061</tstamp>
+    </comp>
+    <comp ref="K_FIVE1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000051</tstamp>
+    </comp>
+    <comp ref="K_FOUR1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000041</tstamp>
+    </comp>
+    <comp ref="K_THREE1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000031</tstamp>
+    </comp>
+    <comp ref="K_TWO1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000021</tstamp>
+    </comp>
+    <comp ref="K_ONE1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000011</tstamp>
+    </comp>
+    <comp ref="K_ESC1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000001</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>613B2FFA</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>613E8081</tstamp>
+    </comp>
+    <comp ref="D12">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6145AA99</tstamp>
+    </comp>
+    <comp ref="D17">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6145AA9F</tstamp>
+    </comp>
+    <comp ref="D57">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61476F28</tstamp>
+    </comp>
+    <comp ref="D62">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61476F2E</tstamp>
+    </comp>
+    <comp ref="D67">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61476F34</tstamp>
+    </comp>
+    <comp ref="D72">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61476F3A</tstamp>
+    </comp>
+    <comp ref="D30">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6148C47E</tstamp>
+    </comp>
+    <comp ref="D35">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6148C484</tstamp>
+    </comp>
+    <comp ref="D48">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6148C48A</tstamp>
+    </comp>
+    <comp ref="D53">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6148C490</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>614E3373</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>614E3379</tstamp>
+    </comp>
+    <comp ref="D11">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>614E337F</tstamp>
+    </comp>
+    <comp ref="D16">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>614E3385</tstamp>
+    </comp>
+    <comp ref="D61">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>614E3391</tstamp>
+    </comp>
+    <comp ref="D66">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>614E3397</tstamp>
+    </comp>
+    <comp ref="D71">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>614E339D</tstamp>
+    </comp>
+    <comp ref="D29">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>614E33A3</tstamp>
+    </comp>
+    <comp ref="D34">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>614E33A9</tstamp>
+    </comp>
+    <comp ref="D47">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>614E33AF</tstamp>
+    </comp>
+    <comp ref="D52">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>614E33B5</tstamp>
+    </comp>
+    <comp ref="D38">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61555906</tstamp>
+    </comp>
+    <comp ref="D42">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6155590C</tstamp>
+    </comp>
+    <comp ref="D46">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61555912</tstamp>
+    </comp>
+    <comp ref="D51">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61555918</tstamp>
+    </comp>
+    <comp ref="D65">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61555936</tstamp>
+    </comp>
+    <comp ref="D70">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6155593C</tstamp>
+    </comp>
+    <comp ref="D37">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6157C71F</tstamp>
+    </comp>
+    <comp ref="D41">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6157C725</tstamp>
+    </comp>
+    <comp ref="D45">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6157C72B</tstamp>
+    </comp>
+    <comp ref="D19">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6157C737</tstamp>
+    </comp>
+    <comp ref="D23">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6157C73D</tstamp>
+    </comp>
+    <comp ref="D27">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6157C743</tstamp>
+    </comp>
+    <comp ref="D32">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6157C749</tstamp>
+    </comp>
+    <comp ref="D64">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6157C74F</tstamp>
+    </comp>
+    <comp ref="D69">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6157C755</tstamp>
+    </comp>
+    <comp ref="D9">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6157C75B</tstamp>
+    </comp>
+    <comp ref="D14">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6157C761</tstamp>
+    </comp>
+    <comp ref="D36">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6159BECA</tstamp>
+    </comp>
+    <comp ref="D40">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6159BED0</tstamp>
+    </comp>
+    <comp ref="D44">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6159BED6</tstamp>
+    </comp>
+    <comp ref="D49">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6159BEDC</tstamp>
+    </comp>
+    <comp ref="D18">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6159BEE2</tstamp>
+    </comp>
+    <comp ref="D22">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6159BEE8</tstamp>
+    </comp>
+    <comp ref="D26">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6159BEEE</tstamp>
+    </comp>
+    <comp ref="D31">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6159BEF4</tstamp>
+    </comp>
+    <comp ref="D63">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6159BEFA</tstamp>
+    </comp>
+    <comp ref="D68">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6159BF00</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6159BF06</tstamp>
+    </comp>
+    <comp ref="D13">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6159BF0C</tstamp>
+    </comp>
+    <comp ref="D20">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6161D452</tstamp>
+    </comp>
+    <comp ref="D24">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6161D458</tstamp>
+    </comp>
+    <comp ref="D28">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6161D45E</tstamp>
+    </comp>
+    <comp ref="D33">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6161D464</tstamp>
+    </comp>
+    <comp ref="D10">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6161D46A</tstamp>
+    </comp>
+    <comp ref="D15">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6161D470</tstamp>
+    </comp>
+    <comp ref="D39">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6163154C</tstamp>
+    </comp>
+    <comp ref="D43">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61631552</tstamp>
+    </comp>
+    <comp ref="D21">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61631558</tstamp>
+    </comp>
+    <comp ref="D25">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6163155E</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>616710AE</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>616710B4</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>616710BA</tstamp>
+    </comp>
+    <comp ref="D55">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6168A032</tstamp>
+    </comp>
+    <comp ref="D59">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6168A038</tstamp>
+    </comp>
+    <comp ref="D56">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6168A03E</tstamp>
+    </comp>
+    <comp ref="D60">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6168A044</tstamp>
+    </comp>
+    <comp ref="D54">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6168A04A</tstamp>
+    </comp>
+    <comp ref="D58">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6168A050</tstamp>
+    </comp>
+    <comp ref="D73">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61CE7D25</tstamp>
+    </comp>
+    <comp ref="OL1">
+      <value>OLED-kbd</value>
+      <footprint>cftkb:ssd1306 128x32 oled</footprint>
+      <libsource lib="SOMEPARTS" part="OLED-kbd" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61D304AE</tstamp>
+    </comp>
+    <comp ref="SW1">
+      <value>boot switch</value>
+      <footprint>cftkb:SW_PUSH_6mm</footprint>
+      <libsource lib="SOMEPARTS" part="SW_PUSH-keyboard_parts-mysterium-pcb-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61D32320</tstamp>
+    </comp>
+    <comp ref="SW2">
+      <value>Rotary_Encoder_Switch-Device-LCK75-rescue</value>
+      <footprint>Keebio-Parts:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm</footprint>
+      <libsource lib="SOMEPARTS" part="Rotary_Encoder_Switch-Device-LCK75-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61D359B5</tstamp>
+    </comp>
+    <comp ref="SW3">
+      <value>reset switch</value>
+      <footprint>cftkb:SW_PUSH_6mm</footprint>
+      <libsource lib="SOMEPARTS" part="SW_PUSH-keyboard_parts-mysterium-pcb-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60CE7BC1</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>AVR-ISP-6</value>
+      <footprint>cftkb:AVR_ICSP_3x2</footprint>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="AVR-ISP-6" description="Atmel 6-pin ISP connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60E197FA</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>atmega</value>
+      <footprint>cftkb:DIP-40_W15.24mm</footprint>
+      <libsource lib="SOMEPARTS" part="ATmega32A-PU-MCU_Microchip_ATmega-LCK75-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61D2B689</tstamp>
+    </comp>
+    <comp ref="D75">
+      <value>D_Zener_Small</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Zener_Small" description="Zener diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60F8C9DB</tstamp>
+    </comp>
+    <comp ref="F1">
+      <value>500mA</value>
+      <footprint>cftkb:polyfuse_5.1mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Polyfuse_Small" description="Resettable fuse, polymeric positive temperature coefficient, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60F8E966</tstamp>
+    </comp>
+    <comp ref="Y1">
+      <value>Crystal</value>
+      <footprint>cftkb:Crystal_HC49-4H_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Crystal" description="Two pin crystal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60FB432D</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>22p</value>
+      <footprint>cftkb:C_Disc_D3.0mm_W1.6mm_P2.50mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60FBCB21</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>22p</value>
+      <footprint>cftkb:C_Disc_D3.0mm_W1.6mm_P2.50mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6108B7E3</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>5.1k</value>
+      <footprint>cftkb:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>612A4DB3</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>75r</value>
+      <footprint>cftkb:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>612E69D5</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>75r</value>
+      <footprint>cftkb:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61306541</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>1.5k</value>
+      <footprint>cftkb:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>613AD31D</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>5.1k</value>
+      <footprint>cftkb:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>614BAAEE</tstamp>
+    </comp>
+    <comp ref="D74">
+      <value>D_Zener_Small</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Zener_Small" description="Zener diode, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61547EA8</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>10k</value>
+      <footprint>cftkb:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61835366</tstamp>
+    </comp>
+    <comp ref="D76">
+      <value>LED</value>
+      <footprint>cftkb:LED_D3.0mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61BF6968</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>1.5k</value>
+      <footprint>cftkb:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61BFBA33</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>4.7u</value>
+      <footprint>cftkb:CP_Radial_D4.0mm_P1.50mm</footprint>
+      <libsource lib="SOMEPARTS" part="CP1_Small-Device-LCK75-rescue" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61C00174</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>0.1u</value>
+      <footprint>cftkb:C_Disc_D4.3mm_W1.9mm_P5.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61C026E5</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>0.1u</value>
+      <footprint>cftkb:C_Disc_D4.3mm_W1.9mm_P5.00mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61C03E77</tstamp>
+    </comp>
+    <comp ref="D50">
+      <value>1N4148</value>
+      <footprint>cftkb:D_DO-35_SOD27_P5.08mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6157C731</tstamp>
+    </comp>
+    <comp ref="K_isoenter1">
+      <value>KEYSW</value>
+      <footprint>MX_Only:MXOnly-ISO-ReversedStabilizers</footprint>
+      <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000311</tstamp>
+    </comp>
+    <comp ref="USB1">
+      <value>Type-C_USB_C_GCT_USB4085-mysterium-pcb-cache</value>
+      <footprint>cftkb:USB_C_GCT_USB4085</footprint>
+      <libsource lib="SOMEPARTS" part="Type-C_USB_C_GCT_USB4085-mysterium-pcb-cache" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61D37E17</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="AVR-ISP-6">
+      <description>Atmel 6-pin ISP connector</description>
+      <docs> ~</docs>
+      <footprints>
+        <fp>IDC?Header*2x03*</fp>
+        <fp>Pin?Header*2x03*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">AVR-ISP-6</field>
+      </fields>
+      <pins>
+        <pin num="1" name="MISO" type="passive"/>
+        <pin num="2" name="VCC" type="passive"/>
+        <pin num="3" name="SCK" type="passive"/>
+        <pin num="4" name="MOSI" type="passive"/>
+        <pin num="5" name="~RST" type="passive"/>
+        <pin num="6" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal">
+      <description>Two pin crystal</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Zener_Small">
+      <description>Zener diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Zener_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Polyfuse_Small">
+      <description>Resettable fuse, polymeric positive temperature coefficient, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*polyfuse*</fp>
+        <fp>*PTC*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Polyfuse_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N4148">
+      <aliases>
+        <alias>1N4448</alias>
+        <alias>1N4149</alias>
+        <alias>1N4151</alias>
+        <alias>1N914</alias>
+        <alias>BA243</alias>
+        <alias>BA244</alias>
+        <alias>BA282</alias>
+        <alias>BA283</alias>
+        <alias>BAV17</alias>
+        <alias>BAV18</alias>
+        <alias>BAV19</alias>
+        <alias>BAV20</alias>
+        <alias>BAV21</alias>
+        <alias>BAW75</alias>
+        <alias>BAW76</alias>
+        <alias>BAY93</alias>
+      </aliases>
+      <description>100V 0.15A standard switching diode, DO-35</description>
+      <docs>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</docs>
+      <footprints>
+        <fp>D*DO?35*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N4148</field>
+        <field name="Footprint">Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MX_Alps_Hybrid" part="MX-NoLED">
+      <fields>
+        <field name="Reference">MX</field>
+        <field name="Value">MX-NoLED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="COL" type="passive"/>
+        <pin num="2" name="ROW" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SOMEPARTS" part="ATmega32A-PU-MCU_Microchip_ATmega-LCK75-rescue">
+      <footprints>
+        <fp>DIP*W15.24mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ATmega32A-PU-MCU_Microchip_ATmega-LCK75-rescue</field>
+        <field name="Footprint">Package_DIP:DIP-40_W15.24mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PB0" type="BiDi"/>
+        <pin num="2" name="PB1" type="BiDi"/>
+        <pin num="3" name="PB2" type="BiDi"/>
+        <pin num="4" name="PB3" type="BiDi"/>
+        <pin num="5" name="PB4" type="BiDi"/>
+        <pin num="6" name="PB5" type="BiDi"/>
+        <pin num="7" name="PB6" type="BiDi"/>
+        <pin num="8" name="PB7" type="BiDi"/>
+        <pin num="9" name="~RESET" type="input"/>
+        <pin num="10" name="VCC" type="power_in"/>
+        <pin num="11" name="GND" type="power_in"/>
+        <pin num="12" name="XTAL2" type="output"/>
+        <pin num="13" name="XTAL1" type="input"/>
+        <pin num="14" name="PD0" type="BiDi"/>
+        <pin num="15" name="PD1" type="BiDi"/>
+        <pin num="16" name="PD2" type="BiDi"/>
+        <pin num="17" name="PD3" type="BiDi"/>
+        <pin num="18" name="PD4" type="BiDi"/>
+        <pin num="19" name="PD5" type="BiDi"/>
+        <pin num="20" name="PD6" type="BiDi"/>
+        <pin num="21" name="PD7" type="BiDi"/>
+        <pin num="22" name="PC0" type="BiDi"/>
+        <pin num="23" name="PC1" type="BiDi"/>
+        <pin num="24" name="PC2" type="BiDi"/>
+        <pin num="25" name="PC3" type="BiDi"/>
+        <pin num="26" name="PC4" type="BiDi"/>
+        <pin num="27" name="PC5" type="BiDi"/>
+        <pin num="28" name="PC6" type="BiDi"/>
+        <pin num="29" name="PC7" type="BiDi"/>
+        <pin num="30" name="AVCC" type="power_in"/>
+        <pin num="31" name="GND" type="passive"/>
+        <pin num="32" name="AREF" type="passive"/>
+        <pin num="33" name="PA7" type="BiDi"/>
+        <pin num="34" name="PA6" type="BiDi"/>
+        <pin num="35" name="PA5" type="BiDi"/>
+        <pin num="36" name="PA4" type="BiDi"/>
+        <pin num="37" name="PA3" type="BiDi"/>
+        <pin num="38" name="PA2" type="BiDi"/>
+        <pin num="39" name="PA1" type="BiDi"/>
+        <pin num="40" name="PA0" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="SOMEPARTS" part="CP1_Small-Device-LCK75-rescue">
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP1_Small-Device-LCK75-rescue</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SOMEPARTS" part="OLED-kbd">
+      <fields>
+        <field name="Reference">OL</field>
+        <field name="Value">OLED-kbd</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SDA" type="BiDi"/>
+        <pin num="2" name="SCL" type="BiDi"/>
+        <pin num="3" name="VCC" type="power_in"/>
+        <pin num="4" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="SOMEPARTS" part="Rotary_Encoder_Switch-Device-LCK75-rescue">
+      <footprints>
+        <fp>RotaryEncoder*Switch*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">Rotary_Encoder_Switch-Device-LCK75-rescue</field>
+      </fields>
+      <pins>
+        <pin num="A" name="A" type="passive"/>
+        <pin num="B" name="B" type="passive"/>
+        <pin num="C" name="C" type="passive"/>
+        <pin num="S1" name="S1" type="passive"/>
+        <pin num="S2" name="S2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SOMEPARTS" part="SW_PUSH-keyboard_parts-mysterium-pcb-rescue">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_PUSH-keyboard_parts-mysterium-pcb-rescue</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SOMEPARTS" part="Type-C_USB_C_GCT_USB4085-mysterium-pcb-cache">
+      <fields>
+        <field name="Reference">USB</field>
+        <field name="Value">Type-C_USB_C_GCT_USB4085-mysterium-pcb-cache</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="GND" type="input"/>
+        <pin num="A4" name="VBUS" type="input"/>
+        <pin num="A5" name="CC1" type="input"/>
+        <pin num="A6" name="DP1" type="input"/>
+        <pin num="A7" name="DN1" type="input"/>
+        <pin num="A8" name="SBU1" type="input"/>
+        <pin num="A9" name="VBUS" type="input"/>
+        <pin num="A12" name="GND" type="input"/>
+        <pin num="B1" name="GND" type="input"/>
+        <pin num="B4" name="VBUS" type="input"/>
+        <pin num="B5" name="CC2" type="input"/>
+        <pin num="B6" name="DP2" type="input"/>
+        <pin num="B7" name="DN2" type="input"/>
+        <pin num="B8" name="SBU2" type="input"/>
+        <pin num="B9" name="VBUS" type="input"/>
+        <pin num="B12" name="GND" type="input"/>
+        <pin num="S1" name="SHIELD" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Connector.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
+    </library>
+    <library logical="Diode">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Diode.lib</uri>
+    </library>
+    <library logical="MX_Alps_Hybrid">
+      <uri>C:\Users\Georgs\Desktop\RIGA65 - tests\riga65/Schematic_Library/MX_Alps_Hybrid.lib</uri>
+    </library>
+    <library logical="SOMEPARTS">
+      <uri>C:\Users\Georgs\Desktop\RIGA65 - tests\riga65/libs/SOMEPARTS.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(D4-Pad2)">
+      <node ref="K_1.25U_LCNTRL1" pin="2"/>
+      <node ref="K_1.5U_LCTRL1" pin="2"/>
+      <node ref="D4" pin="2"/>
+    </net>
+    <net code="2" name="Net-(D17-Pad2)">
+      <node ref="K_1.5U_LALT1" pin="2"/>
+      <node ref="K_1.25U_LALT1" pin="2"/>
+      <node ref="D17" pin="2"/>
+    </net>
+    <net code="3" name="Net-(D6-Pad2)">
+      <node ref="K_ISO_\1" pin="2"/>
+      <node ref="K_ANSI_LSHIFT1" pin="2"/>
+      <node ref="D6" pin="2"/>
+    </net>
+    <net code="4" name="Net-(D48-Pad2)">
+      <node ref="K_1.5U_RALT1" pin="2"/>
+      <node ref="K_1U_RALT1" pin="2"/>
+      <node ref="D48" pin="2"/>
+    </net>
+    <net code="5" name="Net-(D57-Pad2)">
+      <node ref="K_1.5U_RCTRL1" pin="2"/>
+      <node ref="K_1U_RCTRL1" pin="2"/>
+      <node ref="D57" pin="2"/>
+    </net>
+    <net code="6" name="Net-(D68-Pad2)">
+      <node ref="D68" pin="2"/>
+      <node ref="SW2" pin="S2"/>
+    </net>
+    <net code="7" name="EC11-B">
+      <node ref="SW2" pin="B"/>
+      <node ref="U1" pin="15"/>
+    </net>
+    <net code="8" name="EC11-A">
+      <node ref="SW2" pin="A"/>
+      <node ref="U1" pin="14"/>
+    </net>
+    <net code="9" name="boot">
+      <node ref="SW1" pin="2"/>
+      <node ref="U1" pin="18"/>
+    </net>
+    <net code="10" name="MISO">
+      <node ref="J1" pin="1"/>
+      <node ref="U1" pin="7"/>
+    </net>
+    <net code="11" name="SCK">
+      <node ref="U1" pin="8"/>
+      <node ref="J1" pin="3"/>
+    </net>
+    <net code="12" name="MOSI">
+      <node ref="U1" pin="6"/>
+      <node ref="J1" pin="4"/>
+    </net>
+    <net code="13" name="reset">
+      <node ref="R6" pin="2"/>
+      <node ref="SW3" pin="2"/>
+      <node ref="J1" pin="5"/>
+      <node ref="U1" pin="9"/>
+    </net>
+    <net code="14" name="Net-(D73-Pad2)">
+      <node ref="D73" pin="2"/>
+      <node ref="K_TAB1" pin="2"/>
+    </net>
+    <net code="15" name="oledSCL">
+      <node ref="OL1" pin="2"/>
+      <node ref="U1" pin="22"/>
+    </net>
+    <net code="16" name="EC11-GND">
+      <node ref="C5" pin="1"/>
+      <node ref="C2" pin="2"/>
+      <node ref="OL1" pin="3"/>
+      <node ref="OL1" pin="4"/>
+      <node ref="SW1" pin="1"/>
+      <node ref="D75" pin="2"/>
+      <node ref="F1" pin="1"/>
+      <node ref="U1" pin="10"/>
+      <node ref="U1" pin="11"/>
+      <node ref="C1" pin="2"/>
+      <node ref="R1" pin="1"/>
+      <node ref="R2" pin="1"/>
+      <node ref="R3" pin="1"/>
+      <node ref="C4" pin="2"/>
+      <node ref="R7" pin="2"/>
+      <node ref="C3" pin="1"/>
+      <node ref="C3" pin="2"/>
+      <node ref="C4" pin="1"/>
+      <node ref="D76" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="SW2" pin="C"/>
+      <node ref="SW3" pin="1"/>
+      <node ref="R6" pin="1"/>
+      <node ref="USB1" pin="B12"/>
+      <node ref="USB1" pin="B1"/>
+      <node ref="USB1" pin="A1"/>
+      <node ref="USB1" pin="S1"/>
+      <node ref="U1" pin="30"/>
+      <node ref="U1" pin="31"/>
+      <node ref="J1" pin="6"/>
+      <node ref="J1" pin="2"/>
+      <node ref="D74" pin="2"/>
+    </net>
+    <net code="17" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2"/>
+      <node ref="K_TWO1" pin="2"/>
+    </net>
+    <net code="18" name="Net-(D13-Pad2)">
+      <node ref="K_THREE1" pin="2"/>
+      <node ref="D13" pin="2"/>
+    </net>
+    <net code="19" name="Net-(D63-Pad2)">
+      <node ref="D63" pin="2"/>
+      <node ref="K_2U_BACKSPACE1" pin="2"/>
+      <node ref="K_1U_BACKSPACE1" pin="2"/>
+    </net>
+    <net code="20" name="Net-(D31-Pad2)">
+      <node ref="D31" pin="2"/>
+      <node ref="K_SEVEN1" pin="2"/>
+    </net>
+    <net code="21" name="Net-(D26-Pad2)">
+      <node ref="K_SIX1" pin="2"/>
+      <node ref="D26" pin="2"/>
+    </net>
+    <net code="22" name="Net-(D69-Pad2)">
+      <node ref="K_PAGE_UP1" pin="2"/>
+      <node ref="D69" pin="2"/>
+    </net>
+    <net code="23" name="Net-(D64-Pad2)">
+      <node ref="K_ANSI\1" pin="2"/>
+      <node ref="D64" pin="2"/>
+    </net>
+    <net code="24" name="Net-(D9-Pad2)">
+      <node ref="K_Q1" pin="2"/>
+      <node ref="D9" pin="2"/>
+    </net>
+    <net code="25" name="Net-(D19-Pad2)">
+      <node ref="K_E1" pin="2"/>
+      <node ref="D19" pin="2"/>
+    </net>
+    <net code="26" name="Net-(D45-Pad2)">
+      <node ref="D45" pin="2"/>
+      <node ref="K_O1" pin="2"/>
+    </net>
+    <net code="27" name="Net-(D41-Pad2)">
+      <node ref="K_I1" pin="2"/>
+      <node ref="D41" pin="2"/>
+    </net>
+    <net code="28" name="Net-(D14-Pad2)">
+      <node ref="D14" pin="2"/>
+      <node ref="K_W1" pin="2"/>
+    </net>
+    <net code="29" name="Net-(D36-Pad2)">
+      <node ref="K_EIGHT1" pin="2"/>
+      <node ref="D36" pin="2"/>
+    </net>
+    <net code="30" name="Net-(D49-Pad2)">
+      <node ref="D49" pin="2"/>
+      <node ref="K_-1" pin="2"/>
+    </net>
+    <net code="31" name="Net-(D54-Pad2)">
+      <node ref="D54" pin="2"/>
+      <node ref="K_=1" pin="2"/>
+    </net>
+    <net code="32" name="Net-(D60-Pad2)">
+      <node ref="K_ANSI_ENTER1" pin="2"/>
+      <node ref="D60" pin="2"/>
+      <node ref="`1" pin="2"/>
+    </net>
+    <net code="33" name="Net-(D55-Pad2)">
+      <node ref="K_[1" pin="2"/>
+      <node ref="D55" pin="2"/>
+    </net>
+    <net code="34" name="Net-(D15-Pad2)">
+      <node ref="D15" pin="2"/>
+      <node ref="K_S1" pin="2"/>
+    </net>
+    <net code="35" name="Net-(D33-Pad2)">
+      <node ref="K_H1" pin="2"/>
+      <node ref="D33" pin="2"/>
+    </net>
+    <net code="36" name="Net-(D28-Pad2)">
+      <node ref="K_G1" pin="2"/>
+      <node ref="D28" pin="2"/>
+    </net>
+    <net code="37" name="Net-(D21-Pad2)">
+      <node ref="D21" pin="2"/>
+      <node ref="K_C1" pin="2"/>
+    </net>
+    <net code="38" name="Net-(D25-Pad2)">
+      <node ref="K_V1" pin="2"/>
+      <node ref="D25" pin="2"/>
+    </net>
+    <net code="39" name="Net-(D2-Pad2)">
+      <node ref="K_STEPPED_CAPS1" pin="2"/>
+      <node ref="D2" pin="2"/>
+      <node ref="K_CAPS1" pin="2"/>
+    </net>
+    <net code="40" name="Net-(D76-Pad1)">
+      <node ref="R7" pin="1"/>
+      <node ref="D76" pin="1"/>
+    </net>
+    <net code="41" name="Net-(USB1-PadB8)">
+      <node ref="USB1" pin="B8"/>
+    </net>
+    <net code="42" name="Net-(USB1-PadA8)">
+      <node ref="USB1" pin="A8"/>
+    </net>
+    <net code="43" name="Net-(D74-Pad1)">
+      <node ref="USB1" pin="A7"/>
+      <node ref="USB1" pin="B7"/>
+      <node ref="D74" pin="1"/>
+      <node ref="R4" pin="2"/>
+      <node ref="R1" pin="2"/>
+    </net>
+    <net code="44" name="Net-(R3-Pad2)">
+      <node ref="USB1" pin="A5"/>
+      <node ref="R3" pin="2"/>
+    </net>
+    <net code="45" name="Net-(R2-Pad2)">
+      <node ref="USB1" pin="B5"/>
+      <node ref="R2" pin="2"/>
+    </net>
+    <net code="46" name="Net-(USB1-PadA12)">
+      <node ref="USB1" pin="A12"/>
+    </net>
+    <net code="47" name="Net-(D75-Pad1)">
+      <node ref="USB1" pin="A6"/>
+      <node ref="R5" pin="2"/>
+      <node ref="USB1" pin="B6"/>
+      <node ref="D75" pin="1"/>
+    </net>
+    <net code="48" name="Net-(D65-Pad2)">
+      <node ref="D65" pin="2"/>
+      <node ref="K_isoenter1" pin="2"/>
+    </net>
+    <net code="49" name="Net-(U1-Pad32)">
+      <node ref="U1" pin="32"/>
+    </net>
+    <net code="50" name="Net-(U1-Pad21)">
+      <node ref="U1" pin="21"/>
+    </net>
+    <net code="51" name="Net-(D30-Pad2)">
+      <node ref="K_7U_SPACE1" pin="2"/>
+      <node ref="K_6.25U_SPACE1" pin="2"/>
+      <node ref="D30" pin="2"/>
+    </net>
+    <net code="52" name="col3">
+      <node ref="K_THREE1" pin="1"/>
+      <node ref="U1" pin="4"/>
+      <node ref="K_W1" pin="1"/>
+      <node ref="K_1.5U_LALT1" pin="1"/>
+      <node ref="K_1.25U_LALT1" pin="1"/>
+      <node ref="K_S1" pin="1"/>
+      <node ref="K_X1" pin="1"/>
+    </net>
+    <net code="53" name="row1">
+      <node ref="D64" pin="1"/>
+      <node ref="D27" pin="1"/>
+      <node ref="D69" pin="1"/>
+      <node ref="D9" pin="1"/>
+      <node ref="D32" pin="1"/>
+      <node ref="D23" pin="1"/>
+      <node ref="D50" pin="1"/>
+      <node ref="D19" pin="1"/>
+      <node ref="D45" pin="1"/>
+      <node ref="D14" pin="1"/>
+      <node ref="D37" pin="1"/>
+      <node ref="U1" pin="39"/>
+      <node ref="D55" pin="1"/>
+      <node ref="D59" pin="1"/>
+      <node ref="D73" pin="1"/>
+      <node ref="D41" pin="1"/>
+    </net>
+    <net code="54" name="row2">
+      <node ref="D70" pin="1"/>
+      <node ref="D51" pin="1"/>
+      <node ref="D65" pin="1"/>
+      <node ref="D38" pin="1"/>
+      <node ref="U1" pin="38"/>
+      <node ref="D42" pin="1"/>
+      <node ref="D46" pin="1"/>
+      <node ref="D2" pin="1"/>
+      <node ref="D60" pin="1"/>
+      <node ref="D56" pin="1"/>
+      <node ref="D33" pin="1"/>
+      <node ref="D20" pin="1"/>
+      <node ref="D24" pin="1"/>
+      <node ref="D15" pin="1"/>
+      <node ref="D28" pin="1"/>
+      <node ref="D10" pin="1"/>
+    </net>
+    <net code="55" name="row3">
+      <node ref="D61" pin="1"/>
+      <node ref="D66" pin="1"/>
+      <node ref="D39" pin="1"/>
+      <node ref="D43" pin="1"/>
+      <node ref="D71" pin="1"/>
+      <node ref="D3" pin="1"/>
+      <node ref="D34" pin="1"/>
+      <node ref="D16" pin="1"/>
+      <node ref="D11" pin="1"/>
+      <node ref="D6" pin="1"/>
+      <node ref="D29" pin="1"/>
+      <node ref="U1" pin="37"/>
+      <node ref="D25" pin="1"/>
+      <node ref="D47" pin="1"/>
+      <node ref="D52" pin="1"/>
+      <node ref="D21" pin="1"/>
+    </net>
+    <net code="56" name="row4">
+      <node ref="D53" pin="1"/>
+      <node ref="D7" pin="1"/>
+      <node ref="U1" pin="36"/>
+      <node ref="D67" pin="1"/>
+      <node ref="D72" pin="1"/>
+      <node ref="D12" pin="1"/>
+      <node ref="D4" pin="1"/>
+      <node ref="D57" pin="1"/>
+      <node ref="D48" pin="1"/>
+      <node ref="D62" pin="1"/>
+      <node ref="D30" pin="1"/>
+      <node ref="D17" pin="1"/>
+    </net>
+    <net code="57" name="col5">
+      <node ref="K_V1" pin="1"/>
+      <node ref="K_FIVE1" pin="1"/>
+      <node ref="U1" pin="35"/>
+      <node ref="K_R1" pin="1"/>
+      <node ref="K_F1" pin="1"/>
+    </net>
+    <net code="58" name="col6">
+      <node ref="K_T1" pin="1"/>
+      <node ref="K_7U_SPACE1" pin="1"/>
+      <node ref="K_G1" pin="1"/>
+      <node ref="U1" pin="34"/>
+      <node ref="K_SIX1" pin="1"/>
+      <node ref="K_B1" pin="1"/>
+      <node ref="K_6.25U_SPACE1" pin="1"/>
+    </net>
+    <net code="59" name="col7">
+      <node ref="K_N1" pin="1"/>
+      <node ref="U1" pin="33"/>
+      <node ref="K_Y1" pin="1"/>
+      <node ref="K_SEVEN1" pin="1"/>
+      <node ref="K_H1" pin="1"/>
+    </net>
+    <net code="60" name="row0">
+      <node ref="D36" pin="1"/>
+      <node ref="D8" pin="1"/>
+      <node ref="D68" pin="1"/>
+      <node ref="D63" pin="1"/>
+      <node ref="D31" pin="1"/>
+      <node ref="D40" pin="1"/>
+      <node ref="D44" pin="1"/>
+      <node ref="D5" pin="1"/>
+      <node ref="D49" pin="1"/>
+      <node ref="D18" pin="1"/>
+      <node ref="D54" pin="1"/>
+      <node ref="D58" pin="1"/>
+      <node ref="D26" pin="1"/>
+      <node ref="D22" pin="1"/>
+      <node ref="D13" pin="1"/>
+      <node ref="U1" pin="40"/>
+      <node ref="D1" pin="1"/>
+    </net>
+    <net code="61" name="col2">
+      <node ref="U1" pin="3"/>
+      <node ref="K_Q1" pin="1"/>
+      <node ref="K_A1" pin="1"/>
+      <node ref="K_1U_LCTRL1" pin="1"/>
+      <node ref="K_Z1" pin="1"/>
+      <node ref="K_TWO1" pin="1"/>
+    </net>
+    <net code="62" name="col8">
+      <node ref="K_U1" pin="1"/>
+      <node ref="U1" pin="29"/>
+      <node ref="K_M1" pin="1"/>
+      <node ref="K_EIGHT1" pin="1"/>
+      <node ref="K_J1" pin="1"/>
+    </net>
+    <net code="63" name="col9">
+      <node ref="U1" pin="28"/>
+      <node ref="K_,1" pin="1"/>
+      <node ref="K_NINE1" pin="1"/>
+      <node ref="K_K1" pin="1"/>
+      <node ref="K_I1" pin="1"/>
+    </net>
+    <net code="64" name="col10">
+      <node ref="K_.1" pin="1"/>
+      <node ref="K_1U_RALT1" pin="1"/>
+      <node ref="K_ZERO1" pin="1"/>
+      <node ref="K_1.5U_RALT1" pin="1"/>
+      <node ref="K_O1" pin="1"/>
+      <node ref="K_L1" pin="1"/>
+      <node ref="U1" pin="27"/>
+    </net>
+    <net code="65" name="col11">
+      <node ref="K_P1" pin="1"/>
+      <node ref="U1" pin="26"/>
+      <node ref="K_-1" pin="1"/>
+      <node ref="K_;1" pin="1"/>
+      <node ref="K_/1" pin="1"/>
+      <node ref="K_1U_RWIN1" pin="1"/>
+    </net>
+    <net code="66" name="col12">
+      <node ref="U1" pin="25"/>
+      <node ref="K_'1" pin="1"/>
+      <node ref="K_=1" pin="1"/>
+      <node ref="K_1U_RCTRL1" pin="1"/>
+      <node ref="K_1.5U_RCTRL1" pin="1"/>
+      <node ref="K_[1" pin="1"/>
+    </net>
+    <net code="67" name="col4">
+      <node ref="K_D1" pin="1"/>
+      <node ref="K_C1" pin="1"/>
+      <node ref="K_FOUR1" pin="1"/>
+      <node ref="K_E1" pin="1"/>
+      <node ref="U1" pin="5"/>
+    </net>
+    <net code="68" name="VCC">
+      <node ref="USB1" pin="A4"/>
+      <node ref="USB1" pin="B4"/>
+      <node ref="USB1" pin="A9"/>
+      <node ref="USB1" pin="B9"/>
+      <node ref="F1" pin="2"/>
+    </net>
+    <net code="69" name="col0">
+      <node ref="K_ISO_LSHIFT1" pin="1"/>
+      <node ref="K_STEPPED_CAPS1" pin="1"/>
+      <node ref="K_TAB1" pin="1"/>
+      <node ref="K_ESC1" pin="1"/>
+      <node ref="U1" pin="1"/>
+      <node ref="K_1.5U_LCTRL1" pin="1"/>
+      <node ref="K_CAPS1" pin="1"/>
+      <node ref="K_1.25U_LCNTRL1" pin="1"/>
+    </net>
+    <net code="70" name="col14">
+      <node ref="K_ARROWDOWN1" pin="1"/>
+      <node ref="U1" pin="19"/>
+      <node ref="K_ARROWUP1" pin="1"/>
+      <node ref="K_isoenter1" pin="1"/>
+      <node ref="K_1U_BACKSPACE1" pin="1"/>
+      <node ref="K_2U_BACKSPACE1" pin="1"/>
+      <node ref="K_ANSI\1" pin="1"/>
+    </net>
+    <net code="71" name="col1">
+      <node ref="K_1.25U_LWIN1" pin="1"/>
+      <node ref="K_ONE1" pin="1"/>
+      <node ref="K_ISO_\1" pin="1"/>
+      <node ref="K_ANSI_LSHIFT1" pin="1"/>
+      <node ref="U1" pin="2"/>
+    </net>
+    <net code="72" name="col15">
+      <node ref="K_PAGE_UP1" pin="1"/>
+      <node ref="K_R_ARROW1" pin="1"/>
+      <node ref="K_END1" pin="1"/>
+      <node ref="SW2" pin="S1"/>
+      <node ref="K_PAGEDOWN1" pin="1"/>
+      <node ref="U1" pin="20"/>
+    </net>
+    <net code="73" name="oledSDA">
+      <node ref="U1" pin="23"/>
+      <node ref="OL1" pin="1"/>
+    </net>
+    <net code="74" name="col13">
+      <node ref="U1" pin="24"/>
+      <node ref="K_RANDOM_1U1" pin="1"/>
+      <node ref="K_RSHIFT1" pin="1"/>
+      <node ref="`1" pin="1"/>
+      <node ref="K_ANSI_ENTER1" pin="1"/>
+      <node ref="K_L_ARROW1" pin="1"/>
+      <node ref="K_]1" pin="1"/>
+    </net>
+    <net code="75" name="D+">
+      <node ref="U1" pin="16"/>
+      <node ref="R5" pin="1"/>
+    </net>
+    <net code="76" name="D-">
+      <node ref="U1" pin="17"/>
+      <node ref="R4" pin="1"/>
+    </net>
+    <net code="77" name="Net-(C2-Pad1)">
+      <node ref="U1" pin="12"/>
+      <node ref="Y1" pin="2"/>
+      <node ref="C2" pin="1"/>
+    </net>
+    <net code="78" name="Net-(C1-Pad1)">
+      <node ref="U1" pin="13"/>
+      <node ref="Y1" pin="1"/>
+      <node ref="C1" pin="1"/>
+    </net>
+    <net code="79" name="Net-(D70-Pad2)">
+      <node ref="D70" pin="2"/>
+      <node ref="K_PAGEDOWN1" pin="2"/>
+    </net>
+    <net code="80" name="Net-(D3-Pad2)">
+      <node ref="K_ISO_LSHIFT1" pin="2"/>
+      <node ref="D3" pin="2"/>
+    </net>
+    <net code="81" name="Net-(D56-Pad2)">
+      <node ref="K_'1" pin="2"/>
+      <node ref="D56" pin="2"/>
+    </net>
+    <net code="82" name="Net-(D11-Pad2)">
+      <node ref="D11" pin="2"/>
+      <node ref="K_Z1" pin="2"/>
+    </net>
+    <net code="83" name="Net-(D29-Pad2)">
+      <node ref="K_B1" pin="2"/>
+      <node ref="D29" pin="2"/>
+    </net>
+    <net code="84" name="Net-(D34-Pad2)">
+      <node ref="K_N1" pin="2"/>
+      <node ref="D34" pin="2"/>
+    </net>
+    <net code="85" name="Net-(D39-Pad2)">
+      <node ref="K_M1" pin="2"/>
+      <node ref="D39" pin="2"/>
+    </net>
+    <net code="86" name="Net-(D43-Pad2)">
+      <node ref="D43" pin="2"/>
+      <node ref="K_,1" pin="2"/>
+    </net>
+    <net code="87" name="Net-(D16-Pad2)">
+      <node ref="K_X1" pin="2"/>
+      <node ref="D16" pin="2"/>
+    </net>
+    <net code="88" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2"/>
+      <node ref="K_A1" pin="2"/>
+    </net>
+    <net code="89" name="Net-(D20-Pad2)">
+      <node ref="D20" pin="2"/>
+      <node ref="K_D1" pin="2"/>
+    </net>
+    <net code="90" name="Net-(D24-Pad2)">
+      <node ref="K_F1" pin="2"/>
+      <node ref="D24" pin="2"/>
+    </net>
+    <net code="91" name="Net-(D38-Pad2)">
+      <node ref="D38" pin="2"/>
+      <node ref="K_J1" pin="2"/>
+    </net>
+    <net code="92" name="Net-(D42-Pad2)">
+      <node ref="K_K1" pin="2"/>
+      <node ref="D42" pin="2"/>
+    </net>
+    <net code="93" name="Net-(D46-Pad2)">
+      <node ref="K_L1" pin="2"/>
+      <node ref="D46" pin="2"/>
+    </net>
+    <net code="94" name="Net-(D51-Pad2)">
+      <node ref="K_;1" pin="2"/>
+      <node ref="D51" pin="2"/>
+    </net>
+    <net code="95" name="Net-(D72-Pad2)">
+      <node ref="K_R_ARROW1" pin="2"/>
+      <node ref="D72" pin="2"/>
+    </net>
+    <net code="96" name="Net-(D67-Pad2)">
+      <node ref="D67" pin="2"/>
+      <node ref="K_ARROWDOWN1" pin="2"/>
+    </net>
+    <net code="97" name="Net-(D62-Pad2)">
+      <node ref="D62" pin="2"/>
+      <node ref="K_L_ARROW1" pin="2"/>
+    </net>
+    <net code="98" name="Net-(D66-Pad2)">
+      <node ref="K_ARROWUP1" pin="2"/>
+      <node ref="D66" pin="2"/>
+    </net>
+    <net code="99" name="Net-(D71-Pad2)">
+      <node ref="K_END1" pin="2"/>
+      <node ref="D71" pin="2"/>
+    </net>
+    <net code="100" name="Net-(D61-Pad2)">
+      <node ref="K_RSHIFT1" pin="2"/>
+      <node ref="D61" pin="2"/>
+    </net>
+    <net code="101" name="Net-(D52-Pad2)">
+      <node ref="D52" pin="2"/>
+      <node ref="K_/1" pin="2"/>
+    </net>
+    <net code="102" name="Net-(D47-Pad2)">
+      <node ref="D47" pin="2"/>
+      <node ref="K_.1" pin="2"/>
+    </net>
+    <net code="103" name="Net-(D53-Pad2)">
+      <node ref="D53" pin="2"/>
+      <node ref="K_1U_RWIN1" pin="2"/>
+    </net>
+    <net code="104" name="Net-(D12-Pad2)">
+      <node ref="K_1U_LCTRL1" pin="2"/>
+      <node ref="D12" pin="2"/>
+    </net>
+    <net code="105" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2"/>
+      <node ref="K_ESC1" pin="2"/>
+    </net>
+    <net code="106" name="Net-(D5-Pad2)">
+      <node ref="K_ONE1" pin="2"/>
+      <node ref="D5" pin="2"/>
+    </net>
+    <net code="107" name="Net-(D7-Pad2)">
+      <node ref="K_1.25U_LWIN1" pin="2"/>
+      <node ref="D7" pin="2"/>
+    </net>
+    <net code="108" name="Net-(D18-Pad2)">
+      <node ref="K_FOUR1" pin="2"/>
+      <node ref="D18" pin="2"/>
+    </net>
+    <net code="109" name="Net-(D22-Pad2)">
+      <node ref="D22" pin="2"/>
+      <node ref="K_FIVE1" pin="2"/>
+    </net>
+    <net code="110" name="Net-(D37-Pad2)">
+      <node ref="K_U1" pin="2"/>
+      <node ref="D37" pin="2"/>
+    </net>
+    <net code="111" name="Net-(D35-Pad2)">
+      <node ref="D35" pin="2"/>
+    </net>
+    <net code="112" name="Net-(D35-Pad1)">
+      <node ref="D35" pin="1"/>
+    </net>
+    <net code="113" name="Net-(D27-Pad2)">
+      <node ref="K_T1" pin="2"/>
+      <node ref="D27" pin="2"/>
+    </net>
+    <net code="114" name="Net-(D23-Pad2)">
+      <node ref="D23" pin="2"/>
+      <node ref="K_R1" pin="2"/>
+    </net>
+    <net code="115" name="Net-(D32-Pad2)">
+      <node ref="K_Y1" pin="2"/>
+      <node ref="D32" pin="2"/>
+    </net>
+    <net code="116" name="Net-(D50-Pad2)">
+      <node ref="K_P1" pin="2"/>
+      <node ref="D50" pin="2"/>
+    </net>
+    <net code="117" name="Net-(D59-Pad2)">
+      <node ref="K_]1" pin="2"/>
+      <node ref="D59" pin="2"/>
+    </net>
+    <net code="118" name="Net-(D40-Pad2)">
+      <node ref="K_NINE1" pin="2"/>
+      <node ref="D40" pin="2"/>
+    </net>
+    <net code="119" name="Net-(D44-Pad2)">
+      <node ref="D44" pin="2"/>
+      <node ref="K_ZERO1" pin="2"/>
+    </net>
+    <net code="120" name="Net-(D58-Pad2)">
+      <node ref="K_RANDOM_1U1" pin="2"/>
+      <node ref="D58" pin="2"/>
+    </net>
+  </nets>
+</export>
