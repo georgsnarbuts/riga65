@@ -1,4 +1,4 @@
-// Copyright 2021 Georgs Narbuts (@brunokakis)
+// Copyright 2021 Georgs Narbuts (@georgsnarbuts)
 // SPDX-License-Identifier: GPL-2.0-or-later
 
 #pragma once
@@ -9,7 +9,7 @@
 #define VENDOR_ID    0x0953
 #define PRODUCT_ID   0x1603
 #define DEVICE_VER   0x0100
-#define MANUFACTURER brunokakis
+#define MANUFACTURER georgsnarbuts
 #define PRODUCT      riga65
 
 
