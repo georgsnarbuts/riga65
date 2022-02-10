@@ -1,10 +1,9 @@
 # riga65
 
-![riga65](imgur.com image replace me!)
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [Georgs Narbuts](https://github.com/brunokakis)
+* Keyboard Maintainer: [Georgs Narbuts](https://github.com/georgsnarbuts)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 
