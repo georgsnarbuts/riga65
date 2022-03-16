@@ -4,8 +4,7 @@
 *A short description of the keyboard/project*
 
 * Keyboard Maintainer: [Georgs Narbuts](https://github.com/georgsnarbuts)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Hardware Supported: Riga65 pcb, atmega32a mcu.
 
 Make example for this keyboard (after setting up your build environment):
 
